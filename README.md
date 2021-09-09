@@ -2,9 +2,11 @@
 
 Instalar -> npm install
 
-Para ejecturas el script debes insertart el archivo .csv en la carpeta csv
-Despues solo tienes que ejecturar el comando:
+1 - Crea una carpeta llamada csv en la raiz principal.
+2 - Guarda el archivo csv dentro de la carpeta csv.
+3 - En la consola de comandos escribe npm start nombredelcsv 
 
-npm start nombredelcsv
+Importante: cuando ejecutas el comando npm start nombredelcsv , este tiene que ir sin la extension.
 
-Ejemplo : npm start facturas
+Ejemplo si queremos ejecutrar el csv : test.csv
+El comando seria: npm start test
