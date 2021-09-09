@@ -1,0 +1,21 @@
+{
+  "name": "FacturasCreator",
+  "version": "1.0.0",
+  "description": "Facturas de csv a pdf nodejs",
+  "autor": "Alejandro Zuriguel",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "csv-parse": "^4.15.4",
+    "fs": "*",
+    "html-pdf": "^3.0.1",
+    "strip-bom": "^5.0.0",
+    "utf8": "^3.0.0"
+  }
+}
