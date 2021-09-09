@@ -2,7 +2,7 @@
 
 Instalar -> npm install
 
-Para ejecturas el script debes insertart el archivo .csv en la carpeta csv.yml
+Para ejecturas el script debes insertart el archivo .csv en la carpeta csv
 Despues solo tienes que ejecturar el comando:
 
 npm start nombredelcsv
